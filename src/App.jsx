@@ -1,4 +1,4 @@
-import { container } from "./App.css.ts";
+import { container } from "./App.css.js";
 
 function App() {
   return <div className={container} />;
